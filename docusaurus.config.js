@@ -124,6 +124,7 @@ const config = {
           language: ["en", "zh"],
           highlightSearchTermsOnTargetPage: true,
           explicitSearchResultPath: true,
+          indexDocs: false,
         },
       ],
     ],

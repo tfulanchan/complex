@@ -16,6 +16,12 @@
   }
 } 
 
+h1 h2 p img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .buttons {
   display: flex;
   align-items: center;

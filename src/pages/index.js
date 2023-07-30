@@ -6,12 +6,12 @@ import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
-
+ 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <header className={clsx(' hero--primary', styles.heroBanner)}>
-      <div className="container" style = {{ display: "flex", justifyContent: "center", alignItems: "center" }}>
+      <div className="container" style = {{ justifyContent: "center", alignItems: "center" }}>
         <img src='img/cropped-kfgqpc-logo2-1.png' />
         <h1 className="hero__title">{siteConfig.title}</h1>
         <h2 className="hero__subtitle">{siteConfig.tagline}</h2>

@@ -1,9 +1,9 @@
 :root {
   .formbold-mb-5 {
-    margin-bottom: 20px;
+    margin: 20px;
   }
   .formbold-pt-3 {
-    padding-bottom: 12px;
+    padding: 12px;
   }
   .formbold-main-wrapper {
     display: flex;

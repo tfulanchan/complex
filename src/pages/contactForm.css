@@ -1,9 +1,9 @@
 :root {
   .formbold-mb-5 {
-    margin-bottom: 3em;
+    margin-bottom: 20px;
   }
   .formbold-pt-3 {
-    padding-top: 2em;
+    padding-top: 12px;
   }
   .formbold-main-wrapper {
     display: flex;
@@ -52,7 +52,7 @@
     text-align: center;
     font-size: 16px;
     border-radius: 6px;
-    padding: 2em 4em;
+    padding: 14px 32px;
     border: none;
     font-weight: 600;
     background-color: #205d3b;
@@ -94,8 +94,4 @@
   .formbold-form-label {
     color: white;
   }
-}
-
-.buttons {
-  gap: 0.5rem;
 }

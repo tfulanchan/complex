@@ -17,7 +17,7 @@ const config = {
   url: 'https://accomplished.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: 'https://accomplished.vercel.app/',
   
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

@@ -51,7 +51,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/cropped-kfgqpc-logo2-1.png',
+      image: 'img/qurancomplex.png',
       navbar: {
         title: '主頁',
         logo: {

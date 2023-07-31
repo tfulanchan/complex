@@ -25,7 +25,7 @@ function sendEmail(e) {
 }
 export default function Hello() {
     return (
-        <Layout title="Hello" description="Hello React Page">
+        <Layout title="留言" description="留言">
  
                 <div style={styles} >
                     <div class="formbold-main-wrapper" >

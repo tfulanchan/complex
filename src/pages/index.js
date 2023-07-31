@@ -15,10 +15,10 @@ function HomepageHeader() {
           showcasing <b>projects</b>.
         </p>
         <div className={styles.buttons}>
-          <Link className="button button--secondary button--lg" to="/docs">
+          <Link className="button button--secondary button--lg" to="/">
             📘 View Notes
           </Link>
-          <Link className="button button--secondary button--lg" to="/docs">
+          <Link className="button button--secondary button--lg" to="/">
             👨‍🏭 View Resume
           </Link>
         </div>

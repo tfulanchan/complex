@@ -41,11 +41,10 @@ export default function Home() {
       description="Description will go into a meta tag in <head />">
     <header className={clsx(' hero--primary', styles.heroBanner)}>
       <div className="container" >
-        <img src='img/cropped-kfgqpc-logo2-1.png' style={{ display: flex,   align-items: center,  justify-content: center }} />
-        <h1 className="hero__title" style={{ display: flex,   align-items: center,  justify-content: center }}>{siteConfig.title}</h1>
-        <h2 className="hero__subtitle" style={{ display: flex,   align-items: center,  justify-content: center }}>{siteConfig.tagline}</h2>
-        <p className="hero__subtitle" style={{ display: flex,   align-items: center,  justify-content: center }}>{siteConfig.customFields.more}</p>
-        <div className={styles.buttons}>
+        <img src='img/cropped-kfgqpc-logo2-1.png' style={ display: flex,   align-items: center,  justify-content: center } />
+        <h1 className="hero__title" style={ display: flex,   align-items: center,  justify-content: center }>{siteConfig.title}</h1>
+        <h2 className="hero__subtitle" style={ display: flex,   align-items: center,  justify-content: center }>{siteConfig.tagline}</h2>
+        <p className="hero__subtitle" style={ display: flex,   align-items: center,  justify-content: center }>{siteConfig.customFields.more}</p>        <div className={styles.buttons}>
         <Link
             className="button button--secondary button--lg"
             to="/docs/iimaan">

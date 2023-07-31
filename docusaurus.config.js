@@ -91,7 +91,7 @@ const config = {
           },
           {
             position: "right",
-            href: "https://qurancomplex.gov.sa/",
+            href: "https://qurancomplex.gov.sa/kfgqpc/about/",
             label:'關於印刷廠',
           },
           {

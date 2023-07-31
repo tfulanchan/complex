@@ -31,8 +31,8 @@ function HomepageHeader() {
 export default function Home() {
   return (
     <Layout
-      title="Home"
-      description="Xiaohai's Mind Palace. A place for organizing notes across multiple domains. A place for writing blogs. A place for showcasing projects."
+      title={`${siteConfig.title}`}
+      description="古蘭經印刷局中文出版物 官方授權電子版"
     >
       <HomepageHeader />
     </Layout>

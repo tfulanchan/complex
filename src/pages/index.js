@@ -38,7 +38,7 @@ export default function Home() {
   return (
     <Layout
       // title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="古蘭經印刷局中文出版物 官方授權電子版">
       <HomepageHeader />
     </Layout>
   );

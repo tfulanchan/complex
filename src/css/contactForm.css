@@ -95,3 +95,7 @@
     color: white;
   }
 }
+
+.buttons {
+  gap: 0.5rem;
+}

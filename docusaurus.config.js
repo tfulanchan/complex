@@ -92,7 +92,7 @@ const config = {
           {
             position: "right",
             href: "https://qurancomplex.gov.sa/kfgqpc/about/",
-            label:'關於印刷廠',
+            label:'關於印刷局',
           },
           {
             position: "right",

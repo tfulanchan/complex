@@ -1,31 +1,25 @@
-import React from 'react';
-import clsx from 'clsx';
-import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import Layout from '@theme/Layout';
-import HomepageFeatures from '@site/src/components/HomepageFeatures';
-
-import styles from './index.module.css';
-
+import React from "react";
+import clsx from "clsx";
+import Layout from "@theme/Layout";
+import Link from "@docusaurus/Link";
+import styles from "./index.module.css";
+import HomepageFeatures from "../components/HomepageFeatures";
+//
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
   return (
-    <header className={clsx(' hero--primary', styles.heroBanner)}>
+    <header className={clsx("hero hero--primary", styles.heroBanner)}>
       <div className="container">
-        <img src='img/cropped-kfgqpc-logo2-1.png' />
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <h2 className="hero__subtitle">{siteConfig.tagline}</h2>
-        <p className="hero__subtitle">{siteConfig.customFields.more}</p>
+        <h1 className="hero__title">Xiaohai's Mind Palace</h1>
+        <p className="hero__subtitle">
+          A place for organizing <b>notes</b>, writing <b>blogs</b>, and
+          showcasing <b>projects</b>.
+        </p>
         <div className={styles.buttons}>
-        <Link
-            className="button button--secondary button--lg"
-            to="/docs/iimaan">
-            📘正信原則
+          <Link className="button button--secondary button--lg" to="/docs">
+            📘 View Notes
           </Link>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/tafseer">
-            📚古蘭經注
+          <Link className="button button--secondary button--lg" to="/docs">
+            👨‍🏭 View Resume
           </Link>
         </div>
       </div>
@@ -34,12 +28,15 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      // title={`${siteConfig.title}`}
-      description="古蘭經印刷局中文出版物 官方授權電子版">
+      title="Home"
+      description="Xiaohai's Mind Palace. A place for organizing notes across multiple domains. A place for writing blogs. A place for showcasing projects."
+    >
       <HomepageHeader />
+      <main>
+        <HomepageFeatures />
+      </main>
     </Layout>
   );
 }

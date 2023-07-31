@@ -11,8 +11,7 @@ const config = {
   customFields: {
     more:'官方授權電子版',
   },
-  favicon: 'img/qurancomplex.ico',
-
+  favicon: 'img/qurancomplex.png',
   // Set the production url of your site here
   url: 'https://accomplished.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served

@@ -6,12 +6,12 @@ import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
- 
+
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <header className={clsx(' hero--primary', styles.heroBanner)}>
-      <div className="container" >
+      <div className="container">
         <img src='img/cropped-kfgqpc-logo2-1.png' />
         <h1 className="hero__title">{siteConfig.title}</h1>
         <h2 className="hero__subtitle">{siteConfig.tagline}</h2>
@@ -39,25 +39,7 @@ export default function Home() {
     <Layout
       // title={`${siteConfig.title}`}
       description="Description will go into a meta tag in <head />">
-    <header className={clsx(' hero--primary', styles.heroBanner)}>
-      <div className="container" >
-        <img src='img/cropped-kfgqpc-logo2-1.png' style={ display: flex,   align-items: center,  justify-content: center } />
-        <h1 className="hero__title" style={ display: flex,   align-items: center,  justify-content: center }>{siteConfig.title}</h1>
-        <h2 className="hero__subtitle" style={ display: flex,   align-items: center,  justify-content: center }>{siteConfig.tagline}</h2>
-        <p className="hero__subtitle" style={ display: flex,   align-items: center,  justify-content: center }>{siteConfig.customFields.more}</p>        <div className={styles.buttons}>
-        <Link
-            className="button button--secondary button--lg"
-            to="/docs/iimaan">
-            📘正信原則
-          </Link>
-          <Link
-            className="button button--secondary button--lg"
-            to="/docs/tafseer">
-            📚古蘭經注
-          </Link>
-        </div>
-      </div>
-    </header>
+      <HomepageHeader />
     </Layout>
   );
 }

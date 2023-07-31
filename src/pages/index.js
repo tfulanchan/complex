@@ -9,11 +9,10 @@ function HomepageHeader() {
   return (
     <header className={clsx("hero--primary", styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">Xiaohai's Mind Palace</h1>
-        <p className="hero__subtitle">
-          A place for organizing <b>notes</b>, writing <b>blogs</b>, and
-          showcasing <b>projects</b>.
-        </p>
+        <img src='img/cropped-kfgqpc-logo2-1.png' />
+        <h1 className="hero__title">{siteConfig.title}</h1>
+        <h2 className="hero__subtitle">{siteConfig.tagline}</h2>
+        <p className="hero__subtitle">{siteConfig.customFields.more}</p>
         <div className={styles.buttons}>
           <Link className="button button--secondary button--lg" to="/docs/iimaan">
             📘正信原則
@@ -34,9 +33,6 @@ export default function Home() {
       description="Xiaohai's Mind Palace. A place for organizing notes across multiple domains. A place for writing blogs. A place for showcasing projects."
     >
       <HomepageHeader />
-      // <main>
-      //   <HomepageFeatures />
-      // </main>
     </Layout>
   );
 }

@@ -4,7 +4,8 @@ import { Redirect } from 'react-router-dom';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import styles from './contactForm.css';
+import HomepageFeatures from '@site/src/components/HomepageFeatures';
+import styles from '../css/contactForm.css';
 import emailjs from 'emailjs-com';
 
 const serviceID = 'service_bw6rf5b';
@@ -27,59 +28,59 @@ export default function Hello() {
         <Layout title="留言" description="留言">
  
                 <div style={styles} >
-                    <div class="formbold-main-wrapper" >
-                        <div class="formbold-form-wrapper">
+                    <div className="formbold-main-wrapper" >
+                        <div className="formbold-form-wrapper">
                             <form id="formID" onSubmit={sendEmail}>
-                                <div class="formbold-mb-5">
-                                    <label for="name" class="formbold-form-label"> 姓名 </label>
+                                <div className="formbold-mb-5">
+                                    <label for="name" className="formbold-form-label"> 姓名 </label>
                                     <input
                                         type="text"
                                         name="name"
                                         id="name"
                                         placeholder="您的姓名"
-                                        class="formbold-form-input"
+                                        className="formbold-form-input"
                                     />
                                 </div>
 
-                                <div class="formbold-mb-5">
-                                    <label for="email" class="formbold-form-label">電郵地址</label>
+                                <div className="formbold-mb-5">
+                                    <label for="email" className="formbold-form-label">電郵地址</label>
                                     <input
                                         type="email"
                                         name="email"
                                         id="email"
                                         placeholder="您的電子郵件地址"
-                                        class="formbold-form-input"
+                                        className="formbold-form-input"
                                     />
                                 </div>
 
-                                <div class="formbold-mb-5">
-                                    <label for="subject" class="formbold-form-label"> 標題 </label>
+                                <div className="formbold-mb-5">
+                                    <label for="subject" className="formbold-form-label"> 標題 </label>
                                     <input
                                         type="text"
                                         name="subject"
                                         id="subject"
                                         placeholder="您留言的主旨"
-                                        class="formbold-form-input"
+                                        className="formbold-form-input"
                                     />
                                 </div>
 
-                                <div class="formbold-mb-5">
-                                    <label for="message" class="formbold-form-label">信息</label>
+                                <div className="formbold-mb-5">
+                                    <label for="message" className="formbold-form-label">信息</label>
                                     <input
                                         rows="6"
                                         name="message"
                                         id="message"
                                         placeholder="您的留言"
-                                        class="formbold-form-input"
+                                        className="formbold-form-input"
                                     ></input>
                                 </div>
-                                {/* <div class="formbold-mb-5">
-                                    <label for="message" class="formbold-form-label">信息</label>
-                                    <input type="file" name="my_file" class="formbold-form-input"></input>
+                                {/* <div className="formbold-mb-5">
+                                    <label for="message" className="formbold-form-label">信息</label>
+                                    <input type="file" name="my_file" className="formbold-form-input"></input>
                                 </div> */}
 
                                 <div>
-                                    <button class="formbold-btn">提交</button>
+                                    <button className="formbold-btn">提交</button>
                                 </div>
                             </form>
                         </div>

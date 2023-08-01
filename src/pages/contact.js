@@ -86,7 +86,5 @@ export default function Hello() {
                     </div>
                 </div> 
         </Layout>
-    <script src="https://cdn.ingest-lr.com/LogRocket.min.js" crossorigin="anonymous"></script>
-<script>window.LogRocket && window.LogRocket.init('yqu4ie/accomplished');</script>
     );
 }

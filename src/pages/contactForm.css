@@ -48,7 +48,7 @@
     box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.05);
   }
 
-  --formbold-btn {
+  .formbold-btn {
     text-align: center;
     font-size: 16px;
     border-radius: 6px;

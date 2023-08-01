@@ -1,6 +1,6 @@
 ---
 title: 序言
-sidear_position: 1
+sidebar_position: 1
 ---
 
 # 序言

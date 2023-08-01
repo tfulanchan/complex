@@ -5,7 +5,7 @@ import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import styles from '../css/contactForm.css';
+import styles from './contactForm.css';
 import emailjs from 'emailjs-com';
 
 const serviceID = 'service_bw6rf5b';

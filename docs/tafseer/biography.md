@@ -1,6 +1,6 @@
 ---
 title: 伊本·凱西爾傳記
-sideﷺar_position: 3
+sidebar_position: 3
 ---
 
 # 伊本·凱西爾傳記

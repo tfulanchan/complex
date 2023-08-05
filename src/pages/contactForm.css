@@ -97,3 +97,6 @@
 [data-theme='dark'] .formbold-form-label {
   color: #ededfa;
 }
+[data-theme='dark'] {
+    color: #ededfa;
+}

@@ -92,9 +92,10 @@
 
 [data-theme="dark"] {
   .formbold-form-input {
-    color: white;
+    color: #ededfa;
   }
   .formbold-form-label {
-    color: white;
+    color: #ededfa;
   }
+  
 }

@@ -90,11 +90,10 @@
   }
 }
 
-[data-theme='dark'] {
-  .formbold-form-input {
-    color: #ededfa;
-  }
-  .formbold-form-label {
-    color: #ededfa;
-  }
+[data-theme='dark'] .formbold-form-input {
+  color: #ededfa;
+}
+
+[data-theme='dark'] .formbold-form-label {
+  color: #ededfa;
 }

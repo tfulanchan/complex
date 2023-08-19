@@ -97,7 +97,7 @@ const config = {
           {
             position: "right",
             to: "contact",
-            label:'聯繫網絡管理員',
+            label:'聯繫站長',
           },
         ],
       },

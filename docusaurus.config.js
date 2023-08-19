@@ -103,7 +103,7 @@ const config = {
       },
       footer: {
         style: 'dark',
-        copyright: `法赫德國王《古蘭經》印刷局 版權所有 © ${new Date().getFullYear()} `,
+        copyright: `版權所有 © ${new Date().getFullYear()} 法赫德國王《古蘭經》印刷局`,
       },
       prism: {
         theme: lightCodeTheme,

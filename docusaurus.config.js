@@ -46,12 +46,17 @@ const config = {
       }),
     ],
   ],
-
+  themes: ['@docusaurus/theme-search-algolia'],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
       image: 'img/qurancomplex.png',
+      algolia: {
+        appId: "WZEL2569Y9",
+        apiKey: "2f67d3dad8170fc6f623c9a4b127a005",
+        indexName: "iimaanchinese",
+      },
       navbar: {
         title: '主頁',
         logo: {

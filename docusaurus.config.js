@@ -116,18 +116,18 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
-    themes: [
-      [
-        "@easyops-cn/docusaurus-search-local",
-        {
-          hashed: true,
-          language: ["en", "zh"],
-          highlightSearchTermsOnTargetPage: true,
-          explicitSearchResultPath: true,
-          // indexDocs: false,
-        },
-      ],
-    ],
+    // themes: [
+    //   [
+    //     "@easyops-cn/docusaurus-search-local",
+    //     {
+    //       hashed: true,
+    //       language: ["en", "zh"],
+    //       highlightSearchTermsOnTargetPage: true,
+    //       explicitSearchResultPath: true,
+    //       // indexDocs: false,
+    //     },
+    //   ],
+    // ],
 };
 
 module.exports = config;

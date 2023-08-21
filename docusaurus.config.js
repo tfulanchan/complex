@@ -13,7 +13,7 @@ const config = {
   },
   favicon: 'img/qurancomplex.png',
   // Set the production url of your site here
-  url: 'https://accomplished.vercel.app/',
+  url: 'https://iimaanchinese.netlify.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -56,6 +56,7 @@ const config = {
         appId: "WZEL2569Y9",
         apiKey: "2f67d3dad8170fc6f623c9a4b127a005",
         indexName: "iimaanchinese",
+        contextualSearch: true,
       },
       navbar: {
         title: '主頁',

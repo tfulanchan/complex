@@ -52,6 +52,11 @@ const config = {
     ({
       // Replace with your project's social card
       image: 'img/qurancomplex.png',
+      docs: {
+        sidebar: {
+          hideable: true,
+        },
+      },
       algolia: {
         appId: "WZEL2569Y9",
         apiKey: "2f67d3dad8170fc6f623c9a4b127a005",

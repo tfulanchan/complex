@@ -46,10 +46,6 @@ const config = {
       }),
     ],
   ],
-plugins: [
-    'docusaurus-plugin-matomo',
-  ],
-
   // themes: ['@docusaurus/theme-search-algolia'],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
@@ -124,25 +120,7 @@ plugins: [
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      matomo: {
-        matomoUrl: 'https://iimaanchinesenetlifyapp.matomo.cloud/',
-        siteId: '1',
-        phpLoader: 'matomo.php',
-        jsLoader: 'matomo.js',
-      },
     }),
-    themes: [
-      [
-        "@easyops-cn/docusaurus-search-local",
-        {
-          hashed: true,
-          language: ["en", "zh"],
-          highlightSearchTermsOnTargetPage: true,
-          explicitSearchResultPath: true,
-          // indexDocs: false,
-        },
-      ],
-    ],
     // themes: [
     //   [
     //     "@easyops-cn/docusaurus-search-local",

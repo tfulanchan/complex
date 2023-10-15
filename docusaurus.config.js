@@ -46,7 +46,9 @@ const config = {
       }),
     ],
   ],
-
+plugins: [
+    'docusaurus-plugin-matomo',
+  ],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -109,6 +111,12 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      matomo: {
+        matomoUrl: 'https://iimaanchinesenetlifyapp.matomo.cloud/',
+        siteId: '1',
+        phpLoader: 'matomo.php',
+        jsLoader: 'matomo.js',
+      },
     }),
     themes: [
       [
@@ -122,6 +130,7 @@ const config = {
         },
       ],
     ],
+
 };
 
 module.exports = config;

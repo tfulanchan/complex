@@ -13,7 +13,7 @@ const config = {
   },
   favicon: 'img/qurancomplex.png',
   // Set the production url of your site here
-  url: 'https://accomplished.vercel.app/',
+  url: 'https://iimaanchinese.netlify.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
@@ -46,14 +46,29 @@ const config = {
       }),
     ],
   ],
+<<<<<<< HEAD
 plugins: [
     'docusaurus-plugin-matomo',
   ],
+=======
+  // themes: ['@docusaurus/theme-search-algolia'],
+>>>>>>> 794d1fe1684472b3e6299e61b7a9be2c76e5472e
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
       image: 'img/qurancomplex.png',
+      docs: {
+        sidebar: {
+          hideable: true,
+        },
+      },
+      algolia: {
+        appId: "WZEL2569Y9",
+        apiKey: "2f67d3dad8170fc6f623c9a4b127a005",
+        indexName: "iimaanchinese",
+        contextualSearch: true,
+      },
       navbar: {
         title: '主頁',
         logo: {
@@ -99,13 +114,13 @@ plugins: [
           {
             position: "right",
             to: "contact",
-            label:'聯繫網絡管理員',
+            label:'聯繫站長',
           },
         ],
       },
       footer: {
         style: 'dark',
-        copyright: `法赫德國王《古蘭經》印刷局 版權所有 © ${new Date().getFullYear()} `,
+        copyright: `版權所有 © ${new Date().getFullYear()} 法赫德國王《古蘭經》印刷局`,
       },
       prism: {
         theme: lightCodeTheme,
@@ -118,6 +133,7 @@ plugins: [
         jsLoader: 'matomo.js',
       },
     }),
+<<<<<<< HEAD
     themes: [
       [
         "@easyops-cn/docusaurus-search-local",
@@ -131,6 +147,20 @@ plugins: [
       ],
     ],
 
+=======
+    // themes: [
+    //   [
+    //     "@easyops-cn/docusaurus-search-local",
+    //     {
+    //       hashed: true,
+    //       language: ["en", "zh"],
+    //       highlightSearchTermsOnTargetPage: true,
+    //       explicitSearchResultPath: true,
+    //       // indexDocs: false,
+    //     },
+    //   ],
+    // ],
+>>>>>>> 794d1fe1684472b3e6299e61b7a9be2c76e5472e
 };
 
 module.exports = config;

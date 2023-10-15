@@ -46,7 +46,6 @@ const config = {
       }),
     ],
   ],
-<<<<<<< HEAD
 plugins: [
     'docusaurus-plugin-matomo',
   ],
@@ -133,7 +132,6 @@ plugins: [
         jsLoader: 'matomo.js',
       },
     }),
-<<<<<<< HEAD
     themes: [
       [
         "@easyops-cn/docusaurus-search-local",

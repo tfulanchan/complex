@@ -9,7 +9,7 @@ const config = {
   title: '法赫德國王《古蘭經》印刷局',
   tagline: '中文出版物',
   customFields: {
-    more:'官方授權電子版',
+    more: '官方授權電子版',
   },
   favicon: 'img/qurancomplex.png',
   // Set the production url of your site here
@@ -17,7 +17,7 @@ const config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
-  
+
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
@@ -45,6 +45,9 @@ const config = {
         },
       }),
     ],
+  ],
+  plugins: [
+    'docusaurus-plugin-matomo',
   ],
   // themes: ['@docusaurus/theme-search-algolia'],
   themeConfig:
@@ -82,7 +85,7 @@ const config = {
               {
                 label: "關於譯者",
                 to: "blog/suJiYuan",
-              },             
+              },
             ],
           },
           {
@@ -103,12 +106,12 @@ const config = {
           {
             position: "right",
             href: "https://qurancomplex.gov.sa/kfgqpc/about/",
-            label:'關於印刷局',
+            label: '關於印刷局',
           },
           {
             position: "right",
             to: "contact",
-            label:'聯繫站長',
+            label: '聯繫站長',
           },
         ],
       },
@@ -120,19 +123,25 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      matomo: {
+        matomoUrl: 'https://iimaanchinesenetlifyapp.matomo.cloud/',
+        siteId: '1',
+        phpLoader: 'matomo.php',
+        jsLoader: 'matomo.js',
+      },
     }),
-    // themes: [
-    //   [
-    //     "@easyops-cn/docusaurus-search-local",
-    //     {
-    //       hashed: true,
-    //       language: ["en", "zh"],
-    //       highlightSearchTermsOnTargetPage: true,
-    //       explicitSearchResultPath: true,
-    //       // indexDocs: false,
-    //     },
-    //   ],
-    // ],
+  // themes: [
+  //   [
+  //     "@easyops-cn/docusaurus-search-local",
+  //     {
+  //       hashed: true,
+  //       language: ["en", "zh"],
+  //       highlightSearchTermsOnTargetPage: true,
+  //       explicitSearchResultPath: true,
+  //       // indexDocs: false,
+  //     },
+  //   ],
+  // ],
 };
 
 module.exports = config;

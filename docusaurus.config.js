@@ -49,9 +49,8 @@ const config = {
 plugins: [
     'docusaurus-plugin-matomo',
   ],
-=======
+
   // themes: ['@docusaurus/theme-search-algolia'],
->>>>>>> 794d1fe1684472b3e6299e61b7a9be2c76e5472e
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -144,8 +143,6 @@ plugins: [
         },
       ],
     ],
-
-=======
     // themes: [
     //   [
     //     "@easyops-cn/docusaurus-search-local",
@@ -158,7 +155,6 @@ plugins: [
     //     },
     //   ],
     // ],
->>>>>>> 794d1fe1684472b3e6299e61b7a9be2c76e5472e
 };
 
 module.exports = config;

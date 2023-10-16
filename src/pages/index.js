@@ -27,7 +27,11 @@ function HomepageHeader() {
     </header>
   );
 }
-
+componentDidMount() {
+  document.addEventListener('contextmenu', (e) => {
+    e.preventDefault();
+  });
+};
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (

@@ -32,16 +32,6 @@ function HomepageHeader() {
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
 
-    useEffect(() => {
-    const handleContextmenu = (e) => {
-      e.preventDefault();
-    };
-    document.addEventListener("contextmenu", handleContextmenu);
-    return function cleanup() {
-      document.removeEventListener("contextmenu", handleContextmenu);
-    };
-  }, []);
-  
   return (
     <Layout
       // title={`${siteConfig.title}`}

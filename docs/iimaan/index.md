@@ -4,52 +4,52 @@ sidebar_position: 0
 
 # 目錄
 
-- [前言]
-- [緒論]
-- [序論]
-- [第一章 歸信安拉]
-    - [摘要]
-    - [第一篇 養育之獨一性]
-        - [第一論題 養育之獨一性之內涵及 《古蘭經》、聖訓、理智和天賦中的證據]
-        - [第二論題 聲明-- 只承認“養育之獨一性”擺脫不了火獄之刑罰]
-        - [第三論題 對“養育之獨一性”的歪曲現象]
-    - [第二篇 受崇拜之獨一性]
-        - [第一論題 說明--“受崇拜之獨一性”的證據及其重要性]
-        - [第二論題 必須把崇拜只歸於安拉]
-        - [第三論題 穆聖（願安拉福安之）對正信（討黑德）的捍衛]
-        - [第四論題 以物配主、叛逆及其種類（本論題有若干主題）]
-        - [第五論題 妄稱知幽玄等]
-    - [第三篇 一切尊名與德性之獨一性]
-        - [導讀]
-        - [第一論題 “一切尊名與德性之獨一性”的定義及證據]
-        - [第二論題 為了確定《古蘭經》與聖訓光輝中的 一切尊名和德性，試舉幾個實例]
-        - [第三論題 一切尊名和德性之定律]
-- [第二章 正信的其它基石]
-    - [第一篇 歸信眾天神]
-        - [第一論題 天神的定義 創造他們的物質 他們的性質和特性]
-        - [第二論題 怎樣歸信他們以及這一正信的地位和證據]
-        - [第三論題 天神們的職務]
-    - [第二篇 歸信天啟的經典]
-        - [序論 啟示的文字和教法定義及其類別的說明]
-        - [第一論題 歸信經典的教法仲裁和證據]
-        - [第二論題 怎樣歸信經典]
-        - [第三論題 聲明 《討拉特》和《引支勒》以及其它經典 都被篡改，惟有《古蘭經》是完整無缺的]
-        - [第四論題 歸信《古蘭經》和它的特性]
-    - [第三篇 信仰眾使者]
-        - [第一論題 信仰眾使者的教法仲裁及證據]
-        - [第二論題 先知和使者的定義及兩者的區別]
-        - [第三論題 怎樣信仰眾使者？ ]
-        - [第四論題 就眾使者我們應負的責任]
-        - [第五論題 有決心的使者]
-        - [第六論題 我們的先知穆罕默德（願安拉福安之）的特徵和他的民族對他應盡的義務。說明：在夢中見到的使者是真實的]
-        - [第七論題 封印的使命 聲明--穆聖之後再不會有先知出現]
-        - [第八論題 先知的夜行--真相和證據]
-        - [第九論題 論眾先知是活著的？ ]
-        - [第十論題 先知們的奇蹟，這些奇蹟 和“奧立雅”們的特異現象之間的區別]
-        - [第十一論題 伊斯蘭教中的“盟友”和“效忠”]
-    - [第四篇 信仰末日]
-        - [第一論題 末日的預兆及其種類]
-        - [第二論題 墳墓中的幸福和刑罰]
+- [前言](https://iimaanchinese.netlify.app/docs/iimaan/intro)
+- [緒論](https://iimaanchinese.netlify.app/docs/iimaan/intro2)
+- [序論](https://iimaanchinese.netlify.app/docs/iimaan/intro3)
+- [第一章 歸信安拉](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E6%AD%B8%E4%BF%A1%E5%AE%89%E6%8B%89)
+    - [摘要](https://iimaanchinese.netlify.app/docs/iimaan/chapter1/intro)
+    - [第一篇 養育之獨一性](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E4%B8%80%E7%AF%87-%E9%A4%8A%E8%82%B2%E4%B9%8B%E7%8D%A8%E4%B8%80%E6%80%A7)
+        - [第一論題 養育之獨一性之內涵及 《古蘭經》、聖訓、理智和天賦中的證據](https://iimaanchinese.netlify.app/docs/iimaan/chapter1/section1/topic1)
+        - [第二論題 聲明-- 只承認“養育之獨一性”擺脫不了火獄之刑罰](https://iimaanchinese.netlify.app/docs/iimaan/chapter1/section1/topic2)
+        - [第三論題 對“養育之獨一性”的歪曲現象](https://iimaanchinese.netlify.app/docs/iimaan/chapter1/section1/topic3)
+    - [第二篇 受崇拜之獨一性](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E4%BA%8C%E7%AF%87-%E5%8F%97%E5%B4%87%E6%8B%9C%E4%B9%8B%E7%8D%A8%E4%B8%80%E6%80%A7)
+        - [第一論題 說明--“受崇拜之獨一性”的證據及其重要性](https://iimaanchinese.netlify.app/docs/iimaan/chapter1/section2/topic1)
+        - [第二論題 必須把崇拜只歸於安拉](https://iimaanchinese.netlify.app/docs/iimaan/chapter1/section2/topic2)
+        - [第三論題 穆聖（願安拉福安之）對正信（討黑德）的捍衛](https://iimaanchinese.netlify.app/docs/iimaan/chapter1/section2/topic3)
+        - [第四論題 以物配主、叛逆及其種類（本論題有若干主題）](https://iimaanchinese.netlify.app/docs/iimaan/chapter1/section2/topic4)
+        - [第五論題 妄稱知幽玄等](https://iimaanchinese.netlify.app/docs/iimaan/chapter1/section2/topic5)
+    - [第三篇 一切尊名與德性之獨一性](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E4%B8%89%E7%AF%87-%E4%B8%80%E5%88%87%E5%B0%8A%E5%90%8D%E8%88%87%E5%BE%B7%E6%80%A7%E4%B9%8B%E7%8D%A8%E4%B8%80%E6%80%A7)
+        - [導讀](https://iimaanchinese.netlify.app/docs/iimaan/chapter1/section3/guide)
+        - [第一論題 “一切尊名與德性之獨一性”的定義及證據](https://iimaanchinese.netlify.app/docs/iimaan/chapter1/section3/topic1)
+        - [第二論題 為了確定《古蘭經》與聖訓光輝中的 一切尊名和德性，試舉幾個實例](https://iimaanchinese.netlify.app/docs/iimaan/chapter1/section3/topic2)
+        - [第三論題 一切尊名和德性之定律](https://iimaanchinese.netlify.app/docs/iimaan/chapter1/section3/topic3)
+- [第二章 正信的其它基石](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E6%AD%A3%E4%BF%A1%E7%9A%84%E5%85%B6%E4%BB%96%E5%9F%BA%E7%9F%B3)
+    - [第一篇 歸信眾天神](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E4%B8%80%E7%AF%87-%E6%AD%B8%E4%BF%A1%E7%9C%BE%E5%A4%A9%E7%A5%9E)
+        - [第一論題 天神的定義 創造他們的物質 他們的性質和特性](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section1/topic1)
+        - [第二論題 怎樣歸信他們以及這一正信的地位和證據](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section1/topic2)
+        - [第三論題 天神們的職務](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section1/topic3)
+    - [第二篇 歸信天啟的經典](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E4%BA%8C%E7%AF%87-%E6%AD%B8%E4%BF%A1%E5%A4%A9%E5%95%9F%E7%9A%84%E7%B6%93%E5%85%B8)
+        - [序論 啟示的文字和教法定義及其類別的說明](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section2/intro)
+        - [第一論題 歸信經典的教法仲裁和證據](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section2/topic1)
+        - [第二論題 怎樣歸信經典](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section2/topic2)
+        - [第三論題 聲明 《討拉特》和《引支勒》以及其它經典 都被篡改，惟有《古蘭經》是完整無缺的](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section2/topic3)
+        - [第四論題 歸信《古蘭經》和它的特性](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section2/topic4)
+    - [第三篇 信仰眾使者](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E4%B8%89%E7%AF%87-%E4%BF%A1%E4%BB%B0%E7%9C%BE%E4%BD%BF%E8%80%85)
+        - [第一論題 信仰眾使者的教法仲裁及證據](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section3/topic1)
+        - [第二論題 先知和使者的定義及兩者的區別](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section3/topic2)
+        - [第三論題 怎樣信仰眾使者？ ](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section3/topic3)
+        - [第四論題 就眾使者我們應負的責任](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section3/topic4)
+        - [第五論題 有決心的使者](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section3/topic5)
+        - [第六論題 我們的先知穆罕默德（願安拉福安之）的特徵和他的民族對他應盡的義務。說明：在夢中見到的使者是真實的](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section3/topic6)
+        - [第七論題 封印的使命 聲明--穆聖之後再不會有先知出現](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section3/topic7)
+        - [第八論題 先知的夜行--真相和證據](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section3/topic8)
+        - [第九論題 論眾先知是活著的？ ](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section3/topic9)
+        - [第十論題 先知們的奇蹟，這些奇蹟 和“奧立雅”們的特異現象之間的區別](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section3/topic10)
+        - [第十一論題 伊斯蘭教中的“盟友”和“效忠”](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section3/topic11)
+    - [第四篇 信仰末日](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E5%9B%9B%E7%AF%87-%E4%BF%A1%E4%BB%B0%E6%9C%AB%E6%97%A5)
+        - [第一論題 末日的預兆及其種類](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section4/topic1)
+        - [第二論題 墳墓中的幸福和刑罰](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section4/topic2)
         - [第一主題、信仰墳墓中的幸福和刑罰及證據]
         - [第二主題、墳墓中的幸福或刑罰同時針對人的靈魂和肉體]
     - [第三主題、信仰“蒙克爾和奈克爾”兩位天神]
@@ -62,26 +62,26 @@ sidebar_position: 0
     - [第六主題、說情--定義、種類和證據]
     - [第七主題、天橋--其性質與證據]
     - [第八主題、樂園和火獄--性質、信仰的方式和證據]
-    - [第五篇 信仰仲裁與前定]
-        - [第一論題 仲裁與前定的定義]
-        - [第二論題 前定的次序]
-        - [第一論題 仲裁與前定的定義 兩者的證據及區別]
-        - [第二論題 前定的等級]
-- [第三章 有關信仰的若干問題]
-    - [第一篇 伊斯蘭、正信和至善]
-        - [第一論題 伊斯蘭]
-        - [第二論題 正信及其基石，對犯大罪者的仲裁聲明]
-        - [第三論題 至善]
-        - [第四論題 伊斯蘭、正信和至善之間的關係]
-    - [第二篇 效忠與劃清界限其內涵和條件]
-    - [第三篇 聖門弟子的權益及對他們應盡的責任]
-        - [第一論題 誰屬聖門弟子？必須熱愛和效忠他們]
-        - [第二論題 必須相信他們的優越性和公正性，根據教法規定，對他們之間的分歧必須保持沉默]
-        - [第三論題 先知（願安拉福安之）的家屬]
-        - [第四論題 正統的哈里發]
-        - [第五論題 十位以樂園被報喜的人]
-    - [第四篇 面對穆斯林的領袖、廣大的穆斯林群體我們應盡的義務；必須維護穆斯林的團體]
-    - [第五篇 必須堅持《古蘭經》和遜奈；其證據]
-        - [第一論題“堅持《古蘭經》和遜奈”的內涵；其證據]
-        - [第二論題 嚴防異端]
-        - [第三論題 譴責分裂和分歧]
+    - [第五篇 信仰仲裁與前定](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E4%BA%94%E7%AF%87-%E4%BF%A1%E4%BB%B0%E4%BB%B2%E8%A3%81%E8%88%87%E5%89%8D%E5%AE%9A)
+        - [第一論題 仲裁與前定的定義](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section5/topic1)
+            - [第二論題 前定的次序]
+            - [第一論題 仲裁與前定的定義 兩者的證據及區別]
+        - [第二論題 前定的等級](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section5/topic2)
+- [第三章 有關信仰的若干問題](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E4%B8%89%E7%AB%A0-%E6%9C%89%E9%97%9C%E4%BF%A1%E4%BB%B0%E7%9A%84%E8%8B%A5%E5%B9%B2%E5%95%8F%E9%A1%8C)
+    - [第一篇 伊斯蘭、正信和至善](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E4%B8%80%E7%AF%87-%E4%BC%8A%E6%96%AF%E8%98%AD%E6%AD%A3%E4%BF%A1%E5%92%8C%E8%87%B3%E5%96%84)
+        - [第一論題 伊斯蘭](https://iimaanchinese.netlify.app/docs/iimaan/chapter3/section1/topic1)
+        - [第二論題 正信及其基石，對犯大罪者的仲裁聲明](https://iimaanchinese.netlify.app/docs/iimaan/chapter3/section1/topic2)
+        - [第三論題 至善](https://iimaanchinese.netlify.app/docs/iimaan/chapter3/section1/topic3)
+        - [第四論題 伊斯蘭、正信和至善之間的關係](https://iimaanchinese.netlify.app/docs/iimaan/chapter3/section1/topic4)
+    - [第二篇 效忠與劃清界限其內涵和條件](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E4%BA%8C%E7%AF%87-%E6%95%88%E5%BF%A0%E8%88%87%E5%8A%83%E6%B8%85%E7%95%8C%E9%99%90%E5%85%B6%E5%85%A7%E6%B6%B5%E5%92%8C%E6%A2%9D%E4%BB%B6)
+    - [第三篇 聖門弟子的權益及對他們應盡的責任](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E4%B8%89%E7%AF%87-%E8%81%96%E9%96%80%E5%BC%9F%E5%AD%90%E7%9A%84%E6%AC%8A%E7%9B%8A%E5%8F%8A%E5%B0%8D%E4%BB%96%E5%80%91%E6%87%89%E7%9B%A1%E7%9A%84%E8%B2%AC%E4%BB%BB)
+        - [第一論題 誰屬聖門弟子？必須熱愛和效忠他們](https://iimaanchinese.netlify.app/docs/iimaan/chapter3/section3/topic1)
+        - [第二論題 必須相信他們的優越性和公正性，根據教法規定，對他們之間的分歧必須保持沉默](https://iimaanchinese.netlify.app/docs/iimaan/chapter3/section3/topic2)
+        - [第三論題 先知（願安拉福安之）的家屬](https://iimaanchinese.netlify.app/docs/iimaan/chapter3/section3/topic3)
+        - [第四論題 正統的哈里發](https://iimaanchinese.netlify.app/docs/iimaan/chapter3/section3/topic4)
+        - [第五論題 十位以樂園被報喜的人](https://iimaanchinese.netlify.app/docs/iimaan/chapter3/section3/topic5)
+    - [第四篇 面對穆斯林的領袖、廣大的穆斯林群體我們應盡的義務；必須維護穆斯林的團體](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E5%9B%9B%E7%AF%87-%E9%9D%A2%E5%B0%8D%E7%A9%86%E6%96%AF%E6%9E%97%E7%9A%84%E9%A0%98%E8%A2%96%E5%BB%A3%E5%A4%A7%E7%9A%84%E7%A9%86%E6%96%AF%E6%9E%97%E7%BE%A4%E9%AB%94%E6%88%91%E5%80%91%E6%87%89%E7%9B%A1%E7%9A%84%E7%BE%A9%E5%8B%99%E5%BF%85%E9%A0%88%E7%B6%AD%E8%AD%B7%E7%A9%86%E6%96%AF%E6%9E%97%E7%9A%84%E5%9C%98%E9%AB%94)
+    - [第五篇 必須堅持《古蘭經》和遜奈；其證據](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E4%BA%94%E7%AF%87-%E5%BF%85%E9%A0%88%E5%A0%85%E6%8C%81%E5%8F%A4%E8%98%AD%E7%B6%93%E5%92%8C%E9%81%9C%E5%A5%88%E7%9A%84%E7%90%86%E6%93%9A)
+        - [第一論題“堅持《古蘭經》和遜奈”的內涵；其證據](https://iimaanchinese.netlify.app/docs/iimaan/chapter3/section5/topic1)
+        - [第二論題 嚴防異端](https://iimaanchinese.netlify.app/docs/iimaan/chapter3/section5/topic2)
+        - [第三論題 譴責分裂和分歧](https://iimaanchinese.netlify.app/docs/iimaan/chapter3/section5/topic3)

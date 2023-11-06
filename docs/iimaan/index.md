@@ -50,9 +50,9 @@ sidebar_position: 0
     - [第四篇 信仰末日](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E5%9B%9B%E7%AF%87-%E4%BF%A1%E4%BB%B0%E6%9C%AB%E6%97%A5)
         - [第一論題 末日的預兆及其種類](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section4/topic1)
         - [第二論題 墳墓中的幸福和刑罰](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section4/topic2)
-            - [第一主題、信仰墳墓中的幸福和刑罰及證據]
-            - [第二主題、墳墓中的幸福或刑罰同時針對人的靈魂和肉體]
-            - [第三主題、信仰“蒙克爾和奈克爾”兩位天神]
+            - [第一主題、信仰墳墓中的幸福和刑罰及證據](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section4/topic2#%E7%AC%AC%E4%B8%80%E4%B8%BB%E9%A1%8C%E4%BF%A1%E4%BB%B0%E5%A2%B3%E5%A2%93%E4%B8%AD%E7%9A%84%E5%B9%B8%E7%A6%8F%E5%92%8C%E5%88%91%E7%BD%B0%E5%8F%8A%E8%AD%89%E6%93%9A)
+            - [第二主題、墳墓中的幸福或刑罰同時針對人的靈魂和肉體](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section4/topic2#%E7%AC%AC%E4%BA%8C%E4%B8%BB%E9%A1%8C%E5%A2%B3%E5%A2%93%E4%B8%AD%E7%9A%84%E5%B9%B8%E7%A6%8F%E6%88%96%E5%88%91%E7%BD%B0%E5%90%8C%E6%99%82%E9%87%9D%E5%B0%8D%E4%BA%BA%E7%9A%84%E9%9D%88%E9%AD%82%E5%92%8C%E8%82%89%E9%AB%94)
+            - [第三主題、信仰“蒙克爾和奈克爾”兩位天神](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section4/topic2#%E7%AC%AC%E4%B8%89%E4%B8%BB%E9%A1%8C%E4%BF%A1%E4%BB%B0%E8%92%99%E5%85%8B%E7%88%BE%E5%92%8C%E5%A5%88%E5%85%8B%E7%88%BE%E5%85%A9%E4%BD%8D%E5%A4%A9%E7%A5%9E)
         - [第三論題 信仰復活](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section4/topic3)
             - [第一主題、復活的意義及其實質](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section4/topic3#%E7%AC%AC%E4%B8%80%E4%B8%BB%E9%A1%8C%E5%BE%A9%E6%B4%BB%E7%9A%84%E6%84%8F%E7%BE%A9%E5%8F%8A%E5%85%B6%E5%AF%A6%E8%B3%AA)
             - [第二主題、《古蘭經》和聖訓中有關復活的證據和觀點](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section4/topic3#%E7%AC%AC%E4%BA%8C%E4%B8%BB%E9%A1%8C%E5%8F%A4%E8%98%AD%E7%B6%93%E5%92%8C%E8%81%96%E8%A8%93%E4%B8%AD%E6%9C%89%E9%97%9C%E5%BE%A9%E6%B4%BB%E7%9A%84%E8%AD%89%E6%93%9A%E5%92%8C%E8%A7%80%E9%BB%9E)

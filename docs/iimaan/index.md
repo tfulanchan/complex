@@ -63,9 +63,7 @@ sidebar_position: 0
             - [第七主題、天橋--其性質與證據](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section4/topic3#%E7%AC%AC%E4%B8%83%E4%B8%BB%E9%A1%8C%E5%A4%A9%E6%A9%8B--%E5%85%B6%E6%80%A7%E8%B3%AA%E8%88%87%E8%AD%89%E6%93%9A)
             - [第八主題、樂園和火獄--性質、信仰的方式和證據](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section4/topic3#%E7%AC%AC%E5%85%AB%E4%B8%BB%E9%A1%8C%E6%A8%82%E5%9C%92%E5%92%8C%E7%81%AB%E7%8D%84--%E6%80%A7%E8%B3%AA%E4%BF%A1%E4%BB%B0%E7%9A%84%E6%96%B9%E5%BC%8F%E5%92%8C%E8%AD%89%E6%93%9A)
     - [第五篇 信仰仲裁與前定](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E4%BA%94%E7%AF%87-%E4%BF%A1%E4%BB%B0%E4%BB%B2%E8%A3%81%E8%88%87%E5%89%8D%E5%AE%9A)
-        - [第一論題 仲裁與前定的定義](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section5/topic1)
-            - [第二論題 前定的次序]
-            - [第一論題 仲裁與前定的定義 兩者的證據及區別]
+        - [第一論題 仲裁與前定的定義 兩者的證據及區別](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section5/topic1)
         - [第二論題 前定的等級](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section5/topic2)
 - [第三章 有關信仰的若干問題](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E4%B8%89%E7%AB%A0-%E6%9C%89%E9%97%9C%E4%BF%A1%E4%BB%B0%E7%9A%84%E8%8B%A5%E5%B9%B2%E5%95%8F%E9%A1%8C)
     - [第一篇 伊斯蘭、正信和至善](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E4%B8%80%E7%AF%87-%E4%BC%8A%E6%96%AF%E8%98%AD%E6%AD%A3%E4%BF%A1%E5%92%8C%E8%87%B3%E5%96%84)

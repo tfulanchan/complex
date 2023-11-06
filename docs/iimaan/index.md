@@ -50,18 +50,18 @@ sidebar_position: 0
     - [第四篇 信仰末日](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E5%9B%9B%E7%AF%87-%E4%BF%A1%E4%BB%B0%E6%9C%AB%E6%97%A5)
         - [第一論題 末日的預兆及其種類](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section4/topic1)
         - [第二論題 墳墓中的幸福和刑罰](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section4/topic2)
-        - [第一主題、信仰墳墓中的幸福和刑罰及證據]
-        - [第二主題、墳墓中的幸福或刑罰同時針對人的靈魂和肉體]
-    - [第三主題、信仰“蒙克爾和奈克爾”兩位天神]
-    - [第三論題 信仰復活]
-    - [第一主題、復活的意義及其實質]
-    - [第二主題、《古蘭經》和聖訓中有關復活的證據和觀點]
-    - [第三主題、集合]
-    - [第四主題、天池--其性質和證據]
-    - [第五主題、天秤--其屬性和證據]
-    - [第六主題、說情--定義、種類和證據]
-    - [第七主題、天橋--其性質與證據]
-    - [第八主題、樂園和火獄--性質、信仰的方式和證據]
+            - [第一主題、信仰墳墓中的幸福和刑罰及證據]
+            - [第二主題、墳墓中的幸福或刑罰同時針對人的靈魂和肉體]
+            - [第三主題、信仰“蒙克爾和奈克爾”兩位天神]
+        - [第三論題 信仰復活](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section4/topic3)
+            - [第一主題、復活的意義及其實質](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section4/topic3#%E7%AC%AC%E4%B8%80%E4%B8%BB%E9%A1%8C%E5%BE%A9%E6%B4%BB%E7%9A%84%E6%84%8F%E7%BE%A9%E5%8F%8A%E5%85%B6%E5%AF%A6%E8%B3%AA)
+            - [第二主題、《古蘭經》和聖訓中有關復活的證據和觀點](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section4/topic3#%E7%AC%AC%E4%BA%8C%E4%B8%BB%E9%A1%8C%E5%8F%A4%E8%98%AD%E7%B6%93%E5%92%8C%E8%81%96%E8%A8%93%E4%B8%AD%E6%9C%89%E9%97%9C%E5%BE%A9%E6%B4%BB%E7%9A%84%E8%AD%89%E6%93%9A%E5%92%8C%E8%A7%80%E9%BB%9E)
+            - [第三主題、集合](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section4/topic3#%E7%AC%AC%E4%B8%89%E4%B8%BB%E9%A1%8C%E9%9B%86%E5%90%88)
+            - [第四主題、天池--其性質和證據](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section4/topic3#%E7%AC%AC%E5%9B%9B%E4%B8%BB%E9%A1%8C%E5%A4%A9%E6%B1%A0--%E5%85%B6%E6%80%A7%E8%B3%AA%E5%92%8C%E8%AD%89%E6%93%9A)
+            - [第五主題、天秤--其屬性和證據](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section4/topic3#%E7%AC%AC%E4%BA%94%E4%B8%BB%E9%A1%8C%E5%A4%A9%E7%A7%A4--%E5%85%B6%E5%B1%AC%E6%80%A7%E5%92%8C%E8%AD%89%E6%93%9A)
+            - [第六主題、說情--定義、種類和證據](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section4/topic3#%E7%AC%AC%E5%85%AD%E4%B8%BB%E9%A1%8C%E8%AA%AA%E6%83%85--%E5%AE%9A%E7%BE%A9%E7%A8%AE%E9%A1%9E%E5%92%8C%E8%AD%89%E6%93%9A)
+            - [第七主題、天橋--其性質與證據](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section4/topic3#%E7%AC%AC%E4%B8%83%E4%B8%BB%E9%A1%8C%E5%A4%A9%E6%A9%8B--%E5%85%B6%E6%80%A7%E8%B3%AA%E8%88%87%E8%AD%89%E6%93%9A)
+            - [第八主題、樂園和火獄--性質、信仰的方式和證據](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section4/topic3#%E7%AC%AC%E5%85%AB%E4%B8%BB%E9%A1%8C%E6%A8%82%E5%9C%92%E5%92%8C%E7%81%AB%E7%8D%84--%E6%80%A7%E8%B3%AA%E4%BF%A1%E4%BB%B0%E7%9A%84%E6%96%B9%E5%BC%8F%E5%92%8C%E8%AD%89%E6%93%9A)
     - [第五篇 信仰仲裁與前定](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E4%BA%94%E7%AF%87-%E4%BF%A1%E4%BB%B0%E4%BB%B2%E8%A3%81%E8%88%87%E5%89%8D%E5%AE%9A)
         - [第一論題 仲裁與前定的定義](https://iimaanchinese.netlify.app/docs/iimaan/chapter2/section5/topic1)
             - [第二論題 前定的次序]

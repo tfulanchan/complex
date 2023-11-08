@@ -17,16 +17,6 @@ function HomepageHeader() {
         <h2 className="hero__subtitle">{siteConfig.tagline}</h2>
         <p className="hero__subtitle">{siteConfig.customFields.more}</p>
         <div className={styles.buttons}>
-   // <Link className="button button--secondary button--lg" to="/docs/iimaan">
-   //          📘正信原則
-   //          <br />
-   //          أصول الإيمان
-   //        </Link>
-   //        <Link className="button button--secondary button--lg" to="/docs/tafseer">
-   //          📚古蘭經注
-   //          <br />
-   //          تفسير ابن كثير
-   //        </Link>
           <Link className="button button--secondary button--lg" to="/docs/iimaan">
             📘正信原則
           </Link>

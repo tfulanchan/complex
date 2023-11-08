@@ -19,10 +19,12 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link className="button button--secondary button--lg" to="/docs/iimaan">
             📘正信原則
+            <br >
             أصول الإيمان
           </Link>
           <Link className="button button--secondary button--lg" to="/docs/tafseer">
             📚古蘭經注
+            <br >
             تفسير ابن كثير
           </Link>
         </div>

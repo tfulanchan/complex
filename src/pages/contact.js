@@ -66,13 +66,13 @@ export default function Hello() {
 
                                 <div className="formbold-mb-5">
                                     <label for="message" className="formbold-form-label">信息</label>
-                                    <input
-                                        rows="6"
+                                    <textarea
+                                        rows="6" cols="33"
                                         name="message"
                                         id="message"
                                         placeholder="您的留言"
                                         className="formbold-form-input"
-                                    ></input>
+                                    ></textarea>
                                 </div>
                                 {/* <div className="formbold-mb-5">
                                     <label for="message" className="formbold-form-label">信息</label>

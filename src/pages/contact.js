@@ -71,7 +71,7 @@ export default function Hello() {
                                         name="message"
                                         id="message"
                                         placeholder="您的留言"
-                                        className="formbold-form-input"
+                                        className="formbold-form-input form-textarea"
                                     ></textarea>
                                 </div>
                                 {/* <div className="formbold-mb-5">

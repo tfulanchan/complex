@@ -30,7 +30,7 @@
     font-size: 20px;
     margin-bottom: 20px;
   }
-  .form-textarea {
+  textarea {
     resize: vertical;
   }
   .formbold-form-input {
@@ -42,8 +42,7 @@
     font-weight: 500;
     font-size: 16px;
     color: #6b7280;
-    outline: none;
-    resize: none;
+    outline: none;    
   }
   .formbold-form-input {
     width: 100%;

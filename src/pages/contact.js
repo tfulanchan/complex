@@ -67,7 +67,7 @@ export default function Hello() {
                                 <div className="formbold-mb-5">
                                     <label for="message" className="formbold-form-label">信息</label>
                                     <textarea
-                                        rows="6" cols="6"
+                                        rows="6" cols="4"
                                         name="message"
                                         id="message"
                                         placeholder="您的留言"

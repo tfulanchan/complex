@@ -67,6 +67,7 @@ export default function Hello() {
                                 <div className="formbold-mb-5">
                                     <label for="message" className="formbold-form-label">信息</label>
                                     <textarea
+                                        style="resize: vertical;" 
                                         rows="6" cols="6"
                                         name="message"
                                         id="message"

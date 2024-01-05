@@ -10,8 +10,7 @@
     align-items: center;
     justify-content: center;
     padding: 28px;
-  }
-
+  }              
   .formbold-form-wrapper {
     margin: 0 auto;
     max-width: 550px;
@@ -31,7 +30,21 @@
     font-size: 20px;
     margin-bottom: 20px;
   }
-
+  .form-textarea {
+    resize: vertical;
+  }
+  .formbold-form-input {
+    width: 100%;
+    padding: 12px 24px;
+    border-radius: 6px;
+    border: 1px solid #e0e0e0;
+        /* background: white; */
+    font-weight: 500;
+    font-size: 16px;
+    color: #6b7280;
+    outline: none;
+    resize: none;
+  }
   .formbold-form-input {
     width: 100%;
     padding: 12px 24px;

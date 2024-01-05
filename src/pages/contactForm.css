@@ -33,6 +33,7 @@
   }
 
   .formbold-form-input {
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI";
     width: 100%;
     padding: 12px 24px;
     border-radius: 6px;

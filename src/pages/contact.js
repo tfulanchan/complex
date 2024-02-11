@@ -85,6 +85,9 @@ export default function Hello() {
                             </form>
                         </div>
                     </div>
+                    <a href="https://mapmyvisitors.com/web/1bvtj" title="Visit tracker">
+                        <img src="https://mapmyvisitors.com/map.png?cl=ffffff&w=a&t=n&d=hAXPF74EKhb3TbYWaLc9YVBKaaWfsMZLOg5kHX_RKsA" />
+                    </a>
                 </div> 
         </Layout>
     );

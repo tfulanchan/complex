@@ -25,7 +25,6 @@ function HomepageHeader() {
           </Link>
         </div>
       </div>
-      <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=6QLOGp5CjxJNohPgjukzWM0iBjjyNXAKldbbHoHJmSo"></script>    </header>
   );
 }
 

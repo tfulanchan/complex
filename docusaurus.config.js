@@ -130,6 +130,13 @@ const config = {
         jsLoader: 'matomo.js',
       },
     }),
+  // ここに処理を記述
+    scripts: [
+        {
+          src: 'https://ttchan.netlify.app/script.js',
+          async: true,
+        },
+      ],
   // themes: [
   //   [
   //     "@easyops-cn/docusaurus-search-local",

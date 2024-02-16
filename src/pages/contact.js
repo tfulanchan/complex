@@ -48,7 +48,7 @@ export default function Hello() {
                                         type="email"
                                         name="email"
                                         id="email"
-                                        placeholder="您的電子郵件地址"
+                                        placeholder="您的電子郵箱地址"
                                         className="formbold-form-input"
                                     />
                                 </div>

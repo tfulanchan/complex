@@ -130,7 +130,6 @@ const config = {
         jsLoader: 'matomo.js',
       },
     }),
-<<<<<<< Updated upstream
   // ここに処理を記述
     scripts: [
         {
@@ -138,8 +137,6 @@ const config = {
           async: true,
         },
       ],
-=======
->>>>>>> Stashed changes
   // themes: [
   //   [
   //     "@easyops-cn/docusaurus-search-local",
@@ -152,10 +149,7 @@ const config = {
   //     },
   //   ],
   // ],
-<<<<<<< Updated upstream
 
-=======
->>>>>>> Stashed changes
 };
 
 module.exports = config;

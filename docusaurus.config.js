@@ -3,6 +3,7 @@
 
 const lightCodeTheme = require('prism-react-renderer/themes/github');
 const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const tailwindPlugin = require('./plugins/tailwind-plugin.cjs');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -46,9 +47,8 @@ const config = {
       }),
     ],
   ],
-  plugins: [
-    'docusaurus-plugin-matomo',
-  ],
+  plugins: [tailwindPlugin],
+
   // themes: ['@docusaurus/theme-search-algolia'],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */

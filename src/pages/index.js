@@ -1,26 +1,34 @@
-import React from "react";
-import clsx from "clsx";
-import Layout from "@theme/Layout";
-import Link from "@docusaurus/Link";
+import React from 'react';
+import clsx from 'clsx';
+import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-import styles from "./index.module.css";
-import HomepageFeatures from "../components/HomepageFeatures";
-//
+import Layout from '@theme/Layout';
+import HomepageFeatures from '@site/src/components/HomepageFeatures';
+
+import styles from './index.module.css';
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
-    <header className={clsx("hero--primary", styles.heroBanner)}>
-      <div className="container">
-        <img src='img/kfgqpc-logo.png' />
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <h2 className="hero__subtitle">{siteConfig.tagline}</h2>
-        <p className="hero__subtitle">{siteConfig.customFields.more}</p>
+    <header className={clsx(' hero--primary', styles.heroBanner)}>
+      <div className="prose container">
+        <div className='mb-3.5 grid gap-4 place-content-center'>
+          <img className="relative bg-fixed bg-center bg-cover bg-no-repeat" src='img/kfgqpc-logo.png' />
+        </div>
+        {/* <img className="relative mt-1 w-3/4" src='img/cropped-kfgqpc-logo2-1.png' /> */}
+        <h1 className="mb-2.5 hero__title">{siteConfig.title}</h1>
+        {/* hero__subtitle */}
+        <h2 className="mb-1.5 ">{siteConfig.tagline}</h2>
+        <p className="mb-2.5 hero__subtitle">{siteConfig.customFields.more}</p>
         <div className={styles.buttons}>
-          <Link className="button button--secondary button--lg" to="/docs/iimaan">
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/iimaan">
             📘正信原則
           </Link>
-          <Link className="button button--secondary button--lg" to="/docs/tafseer">
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/tafseer">
             📚古蘭經注
           </Link>
         </div>
@@ -30,13 +38,11 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
-
+  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
       // title={`${siteConfig.title}`}
-      description="古蘭經印刷局中文出版物 官方授權電子版"
-    >
+      description="Description will go into a meta tag in <head />">
       <HomepageHeader />
     </Layout>
   );

@@ -123,12 +123,12 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
-      matomo: {
-        matomoUrl: 'https://iimaanchinesenetlifyapp.matomo.cloud/',
-        siteId: '1',
-        phpLoader: 'matomo.php',
-        jsLoader: 'matomo.js',
-      },
+      // matomo: {
+      //   matomoUrl: 'https://iimaanchinesenetlifyapp.matomo.cloud/',
+      //   siteId: '1',
+      //   phpLoader: 'matomo.php',
+      //   jsLoader: 'matomo.js',
+      // },
     }),
   // ここに処理を記述
     scripts: [

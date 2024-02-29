@@ -1,6 +1,10 @@
-import React, { useState, useEffect } from 'react';
-import { useHistory } from '@docusaurus/router';
+import React from 'react';
 import Layout from '@theme/Layout';
+import {Redirect} from '@docusaurus/router';
+import clsx from 'clsx';
+import Link from '@docusaurus/Link';
+import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
+import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import emailjs from 'emailjs-com';
 
 const serviceID = 'service_bw6rf5b';
@@ -8,44 +12,23 @@ const templateID = 'template_isj7757';
 const templateParams = '';
 const publicKey = '5r2tCrDs5VYOZxpfF';
 
-const contactForm = () => {
-    const history = useHistory();
-    const [showRedirectMessage, setShowRedirectMessage] = useState(false);
-
-    const sendEmail = (e) => {
-        e.preventDefault();
-        console.log('留言已提交');
-
-        emailjs.sendForm(serviceID, templateID, e.target, publicKey)
-            .then((result) => {
-                console.log("result", history);
-                setShowRedirectMessage(true);
-                setTimeout(() => {
-                    // history.push('/');
-                    history.goBack(); // Redirect back to the previous page
-                }, 3000); // 5 seconds delay before redirection
-            })
-            .catch((error) => {
-                console.log(error.text);
-            });
-    };
-
+function sendEmail(e) {
+    e.preventDefault();
+    emailjs.sendForm(serviceID, templateID, formID, publicKey)
+        .then((result) => {
+            alert("您的留言已提交。 您現在可以離開此頁面。");
+            console.log(result.text);
+            return go;
+        }, (error) => {
+            console.log(error.text);
+        });
+}
+// https://flowbite.com/blocks/marketing/contact/
+// https://merakiui.com/components/marketing/contact
+export default function Hello() {
     return (
         <Layout title="留言" description="留言">
-            {showRedirectMessage ? (
-                <section className="bg-white dark:bg-gray-900">
-                    <div className="py-3 lg:py-5 px-4 mx-auto max-w-screen-md">
-                        <br />
-                        <br />
-                        <br />
-                        <br />
-                        <h1 className="mb-2 lg:mb-4 font-light ">
-                            留言已提交，歡迎您繼續閱讀......
-                        </h1>
-                    </div>
-                </section>
-            ) : (
-                <section className="bg-white dark:bg-gray-900">
+            <section className="bg-white dark:bg-gray-900">
                 <div className="py-3 lg:py-5 px-4 mx-auto max-w-screen-md">
                     {/* <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-center text-gray-900 dark:text-white">お問い合わせ</h2> */}
                     <p className="mb-2 lg:mb-4 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl">歡迎作出跟技術問題或編輯誤差有關的留言</p>
@@ -74,9 +57,6 @@ const contactForm = () => {
                     </form>
                 </div>
             </section>
-            )}
         </Layout>
     );
-};
-
-export default contactForm;
+}

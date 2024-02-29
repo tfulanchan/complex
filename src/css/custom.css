@@ -88,11 +88,11 @@
      font-size: 1.2rem;
    }
  
-   a {
-     /* font-family: 'Alimama ShuHeiTi Bold'; */
-     font-family: 'Noto Serif SemiBold', 'ReadexPro';
-     font-size: 0.9rem;
-   }
+  a {
+    /* font-family: 'Alimama ShuHeiTi Bold'; */
+    font-family: 'Noto Serif SemiBold', 'ReadexPro';
+    font-size: 1rem;
+  }
  
    div,
    p,
@@ -102,12 +102,9 @@
      font-family: 'Noto Serif Regular', 'ReadexPro';
    }
  
-   a {
-     font-size: 1rem;
-   }
-   p {
-     font-size: 1.15rem;
-   }
+  blockquote {
+    margin-bottom: 1.5rem;
+  }
  
    /* index page list style begin */
    #__docusaurus_skipToContent_fallback>div>main>div>div>div>div>article>div>ul {
@@ -215,10 +212,6 @@
  
    svg {
      display: inline;
-   }
- 
-   blockquote {
-     margin-bottom: 1rem;
    }
  
    ol {

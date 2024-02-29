@@ -4,11 +4,11 @@ sidebar_position: 0
 
 # 目錄
 
-- [前言](https://iimaanchinese.netlify.app/docs/iimaan/intro)
-- [緒論](https://iimaanchinese.netlify.app/docs/iimaan/intro2)
-- [序論](https://iimaanchinese.netlify.app/docs/iimaan/intro3)
+- [前言](intro.md)
+- [緒論](intro2.md)
+- [序論](intro3.md)
 - [第一章 歸信安拉](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E6%AD%B8%E4%BF%A1%E5%AE%89%E6%8B%89)
-    - [摘要](https://iimaanchinese.netlify.app/docs/iimaan/chapter1/intro)
+    - [摘要](chapter1/intro.md)
     - [第一篇 養育之獨一性](https://iimaanchinese.netlify.app/docs/category/%E7%AC%AC%E4%B8%80%E7%AF%87-%E9%A4%8A%E8%82%B2%E4%B9%8B%E7%8D%A8%E4%B8%80%E6%80%A7)
         - [第一論題 養育之獨一性之內涵及 《古蘭經》、聖訓、理智和天賦中的證據](https://iimaanchinese.netlify.app/docs/iimaan/chapter1/section1/topic1)
         - [第二論題 聲明-- 只承認“養育之獨一性”擺脫不了火獄之刑罰](https://iimaanchinese.netlify.app/docs/iimaan/chapter1/section1/topic2)

@@ -11,6 +11,7 @@ const config = {
   tagline: '中文出版物',
   customFields: {
     more: '官方授權電子版',
+    mendableAnonKey: "7f26955d-18c0-4881-a92b-cde605a46613",
   },
   favicon: 'img/qurancomplex.png',
   // Set the production url of your site here
@@ -112,6 +113,11 @@ const config = {
             position: "right",
             to: "contact",
             label: '聯繫站長',
+          },
+          {
+            position: "right",
+            to: "interactive",
+            label: '互動問答🚧',
           },
         ],
       },

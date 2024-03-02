@@ -70,6 +70,7 @@ const contactForm = () => {
                             <textarea id="message" rows="6" className="mb-2 block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg shadow-sm border border-gray-300 focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500" 
                             name="message" placeholder="您的留言..." required></textarea>
                         </div>
+                        <div class="h-captcha" data-sitekey="4b8a9892-5081-4839-8609-4759f2e3a7ff"></div>                                
                         <button type="submit" onSubmit={sendEmail} className="mb-4 py-3 px-5 text-sm font-medium text-center text-white rounded-lg bg-green-900 hover:bg-green-700 focus:bg-green-500">
                             提交
                         </button>

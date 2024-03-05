@@ -74,10 +74,10 @@ const contactForm = () => {
                                 <textarea id="message" rows="6" className="mb-2 block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg shadow-sm border border-gray-300 focus:ring-primary-500 focus:border-primary-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-primary-500 dark:focus:border-primary-500"
                                     name="message" placeholder="您的留言..." required></textarea>
                             </div>
-                            <HCaptcha
-                                sitekey="4b8a9892-5081-4839-8609-4759f2e3a7ff"
-                                onVerify={(token, ekey) => handleVerificationSuccess(token, ekey)}
-                            />
+                            // <HCaptcha
+                            //     sitekey="4b8a9892-5081-4839-8609-4759f2e3a7ff"
+                            //     onVerify={(token, ekey) => handleVerificationSuccess(token, ekey)}
+                            // />
                             <button type="submit" class="text-white bg-green-900 hover:bg-green-700 focus:ring-4 focus:outline-none focus:bg-green-500 font-medium rounded-lg text-sm px-3 py-2.5 text-center my-2">提交留言</button>
                         </form>
                     </div>

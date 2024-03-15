@@ -31,19 +31,19 @@ export default function SearchBarWrapper() {
                         </div>
                         <br />
                         <MendableInPlace
-                    anon_key={customFields.mendableAnonKey}
-                    style={{ accentColor: '#179C54', darkMode: false }}
-                    hintText="安拉為何創造人類？"
-                    hintQuestions={['安拉為何創造人類？', '爾撒（耶穌）是安拉的兒子嗎？', '誰是真主？']}
-                    dialogPlaceholder="安拉為何創造人類？"
-                    showSimpleSearch={true}
-                    messageSettings={{
-                        prettySources: true,
-                        // sourcesFirst: true
-                    }}
-                    language="ja"
-                    cmdShortcutKey='q'
-                />
+                            anon_key={customFields.mendableAnonKey}
+                            style={{ accentColor: '#179C54', darkMode: false }}
+                            hintText="安拉為何創造人類？"
+                            hintQuestions={['安拉為何創造人類？', '爾撒（耶穌）是安拉的兒子嗎？', '誰是真主？']}
+                            dialogPlaceholder="安拉為何創造人類？"
+                            showSimpleSearch={true}
+                            messageSettings={{
+                                prettySources: true,
+                                // sourcesFirst: true
+                            }}
+                            language="ja"
+                            cmdShortcutKey='q'
+                        />
                     </div>
                 </section>
 

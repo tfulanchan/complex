@@ -31,6 +31,11 @@ function HomepageHeader() {
             to="/docs/tafseer">
             📚古蘭經注
           </Link>
+          <Link
+            className="button button--secondary button--lg"
+            to="/interactive">
+            💬互動問答
+          </Link>
         </div>
       </div>
     </header>

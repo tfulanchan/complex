@@ -33,7 +33,7 @@ export default function SearchBarWrapper() {
                         <MendableInPlace
                             anon_key={customFields.mendableAnonKey}
                             style={{ accentColor: '#179C54', darkMode: false }}
-                            // hintText="總結《光明章》"
+                            hintText="什麼是認主獨一？"
                             hintQuestions={['安拉為何創造人類？', '爾撒（耶穌）是安拉的兒子嗎？', '總結關於結婚和離婚的規定','總結《離婚章》']}
                             dialogPlaceholder="安拉為何創造人類？"
                             showSimpleSearch={true}總結關於結婚和離婚的規定

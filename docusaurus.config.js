@@ -138,10 +138,22 @@ const config = {
     }),
   // ここに処理を記述
     scripts: [
-        {
-          src: 'https://ttchan.netlify.app/script.js',
-          async: true,
-        },
+      {
+        src: 'https://cdn.jsdelivr.net/npm/pjax@VERSION/pjax.min.js',
+        async: true,
+      },
+      {
+        src: 'https://aka.ms/csspeech/jsbrowserpackageraw',
+        async: true,
+      },
+      {
+        src: 'https://unpkg.com/axios/dist/axios.min.js',
+        async: true,
+      },
+      {
+        src: 'https://ttchan.netlify.app/browserHooks.js',
+        defer: true,
+      },
       ],
   // themes: [
   //   [

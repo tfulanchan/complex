@@ -15,7 +15,10 @@
   },
   "dependencies": {
     "@docusaurus/core": "^3.2.1",
+    "@docusaurus/mdx-loader": "^3.2.1",
+    "@docusaurus/plugin-content-docs": "^3.2.1",
     "@docusaurus/preset-classic": "^3.2.1",
+    "@docusaurus/types": "^3.2.1",
     "@easyops-cn/docusaurus-search-local": "^0.40.1",
     "@emailjs/browser": "^3.11.0",
     "@hcaptcha/react-hcaptcha": "^1.10.1",

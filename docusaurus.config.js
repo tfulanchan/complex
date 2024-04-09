@@ -44,11 +44,6 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-      }),
-    ],
-    [
-      '@docusaurus/preset-classic',
-      {
         sitemap: {
           lastmod: 'date',
           changefreq: 'weekly',
@@ -56,7 +51,7 @@ const config = {
           ignorePatterns: ['/tags/**'],
           filename: 'sitemap.xml',
         },
-      },
+      }),
     ],
   ],
   plugins: [tailwindPlugin],

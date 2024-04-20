@@ -24,9 +24,8 @@ export default function SearchBarWrapper() {
                             <div class="flex">
                                 <div class="py-1"><svg class="fill-current dark:fill-current h-6 w-6 text-teal-500 mr-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M2.93 17.07A10 10 0 1 1 17.07 2.93 10 10 0 0 1 2.93 17.07zm12.73-1.41A8 8 0 1 0 4.34 4.34a8 8 0 0 0 11.32 11.32zM9 11V9h2v6H9v-4zm0-6h2v2H9V5z" /></svg></div>
                                 <div>
-                                  <p>
-                                    此頁面需要網路連線才能正常運作。處於測試階段，機器回答提供的答案可能不準確，如內容有任何歧義或不一致之處，概以已出版內容為準。
-                                  </p>
+                                    <p>此頁面仍處於測試階段。</p>
+                                    <p>機器回答提供的答案可能不準確，如內容有任何歧義或不一致之處，概以已出版內容為準。</p>
                                 </div>
                             </div>
                         </div>
@@ -35,7 +34,7 @@ export default function SearchBarWrapper() {
                             anon_key={customFields.mendableAnonKey}
                             style={{ accentColor: '#179C54', darkMode: false }}
                             hintText="什麼是認主獨一？"
-                            hintQuestions={['什麼是認主獨一？', '爾撒（耶穌）是安拉的兒子嗎？','總結《離婚章》']}
+                            hintQuestions={['什麼是認主學？', '爾撒（耶穌）是安拉的兒子嗎？','妻子提出離婚怎麼辦？']}
                             dialogPlaceholder="什麼是認主獨一？"
                             showSimpleSearch={true}總結關於結婚和離婚的規定
                             messageSettings={{

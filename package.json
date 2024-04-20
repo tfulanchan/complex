@@ -24,6 +24,7 @@
     "@hcaptcha/react-hcaptcha": "^1.10.1",
     "@mdx-js/react": "^3.0.1",
     "@mendable/search": "^0.0.205",
+    "@orama/plugin-docusaurus-v3": "^2.0.16",
     "autoprefixer": "^10.4.19",
     "clsx": "^2.1.0",
     "emailjs-com": "^3.2.0",

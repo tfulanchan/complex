@@ -1,7 +1,7 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-import {themes as prismThemes} from 'prism-react-renderer';
+import { themes as prismThemes } from 'prism-react-renderer';
 const tailwindPlugin = require('./plugins/tailwind-plugin.cjs');
 
 /** @type {import('@docusaurus/types').Config} */
@@ -54,7 +54,18 @@ const config = {
       }),
     ],
   ],
-  plugins: [tailwindPlugin],
+  plugins: [tailwindPlugin,
+    // [
+    //   "@orama/plugin-docusaurus",
+    //   {
+    //     cloud: {
+    //       indexId: "q4bk3ch0iye7i1t0pb2n1eza",
+    //       oramaCloudAPIKey: process.env.ORAMA_CLOUD_API_KEY, // Env variable suggested
+    //       deploy: true, // Enables deploy while building/starting
+    //     },
+    //   },
+    // ],
+  ],
 
   // themes: ['@docusaurus/theme-search-algolia'],
   themeConfig:
@@ -143,24 +154,24 @@ const config = {
       // },
     }),
   // ここに処理を記述
-    scripts: [
-      {
-        src: 'https://cdn.jsdelivr.net/npm/pjax@VERSION/pjax.min.js',
-        async: true,
-      },
-      {
-        src: 'https://aka.ms/csspeech/jsbrowserpackageraw',
-        async: true,
-      },
-      {
-        src: 'https://unpkg.com/axios/dist/axios.min.js',
-        async: true,
-      },
-      {
-        src: 'https://ttchan.netlify.app/browserHooks.js',
-        defer: true,
-      },
-      ],
+  scripts: [
+    {
+      src: 'https://cdn.jsdelivr.net/npm/pjax@VERSION/pjax.min.js',
+      async: true,
+    },
+    {
+      src: 'https://aka.ms/csspeech/jsbrowserpackageraw',
+      async: true,
+    },
+    {
+      src: 'https://unpkg.com/axios/dist/axios.min.js',
+      async: true,
+    },
+    {
+      src: 'https://ttchan.netlify.app/browserHooks.js',
+      defer: true,
+    },
+  ],
   // themes: [
   //   [
   //     "@easyops-cn/docusaurus-search-local",

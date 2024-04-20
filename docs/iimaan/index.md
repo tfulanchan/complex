@@ -1,4 +1,5 @@
 ---
+title: 目錄
 sidebar_position: 0
 ---
 
@@ -18,29 +19,23 @@ sidebar_position: 0
         - [第二論題 必須把崇拜只歸於安拉](chapter1/section2/topic2.md)
         - [第三論題 穆聖（願安拉福安之）對正信（討黑德）的捍衛](chapter1/section2/topic3.md)
         - [第四論題 以物配主、叛逆及其種類（本論題有若干主題）](chapter1/section2/topic4.md)
-        - [第五論題 妄稱知幽玄等](chapter1/section2/topic5.md)
-    
+        - [第五論題 妄稱知幽玄等](chapter1/section2/topic5.md) 
     - [第三篇 一切尊名與德性之獨一性](../category/%E7%AC%AC%E4%B8%89%E7%AF%87-%E4%B8%80%E5%88%87%E5%B0%8A%E5%90%8D%E8%88%87%E5%BE%B7%E6%80%A7%E4%B9%8B%E7%8D%A8%E4%B8%80%E6%80%A7)
-
         - [導讀](chapter1/section3/guide.md)
         - [第一論題 “一切尊名與德性之獨一性”的定義及證據](chapter1/section3/topic1.md)
         - [第二論題 為了確定《古蘭經》與聖訓光輝中的一切尊名和德性，試舉幾個實例](chapter1/section3/topic2.md)
         - [第三論題 一切尊名和德性之定律](chapter1/section3/topic3.md)
-
 - [第二章 正信的其它基石](../category/%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E6%AD%A3%E4%BF%A1%E7%9A%84%E5%85%B6%E4%BB%96%E5%9F%BA%E7%9F%B3)
-    
     - [第一篇 歸信眾天神](../category/%E7%AC%AC%E4%B8%80%E7%AF%87-%E6%AD%B8%E4%BF%A1%E7%9C%BE%E5%A4%A9%E7%A5%9E)
         - [第一論題 天神的定義 創造他們的物質 他們的性質和特性](chapter2/section1/topic1.md)
         - [第二論題 怎樣歸信他們以及這一正信的地位和證據](chapter2/section1/topic2.md)
         - [第三論題 天神們的職務](chapter2/section1/topic3.md)
-    
     - [第二篇 歸信天啟的經典](../category/%E7%AC%AC%E4%BA%8C%E7%AF%87-%E6%AD%B8%E4%BF%A1%E5%A4%A9%E5%95%9F%E7%9A%84%E7%B6%93%E5%85%B8)
         - [序論 啟示的文字和教法定義及其類別的說明](chapter2/section2/intro.md)
         - [第一論題 歸信經典的教法仲裁和證據](chapter2/section2/topic1.md)
         - [第二論題 怎樣歸信經典](chapter2/section2/topic2)
         - [第三論題 聲明 《討拉特》和《引支勒》以及其它經典 都被篡改，惟有《古蘭經》是完整無缺的](chapter2/section2/topic3.md)
         - [第四論題 歸信《古蘭經》和它的特性](chapter2/section2/topic4.md)
-    
     - [第三篇 信仰眾使者](../category/%E7%AC%AC%E4%B8%89%E7%AF%87-%E4%BF%A1%E4%BB%B0%E7%9C%BE%E4%BD%BF%E8%80%85)
         - [第一論題 信仰眾使者的教法仲裁及證據](chapter2/section3/topic1.md)
         - [第二論題 先知和使者的定義及兩者的區別](chapter2/section3/topic2.md)
@@ -52,8 +47,7 @@ sidebar_position: 0
         - [第八論題 先知的夜行--真相和證據](chapter2/section3/topic8.md)
         - [第九論題 論眾先知是活著的？ ](chapter2/section3/topic9.md)
         - [第十論題 先知們的奇蹟，這些奇蹟和“奧立雅”們的特異現象之間的區別](chapter2/section3/topic10.md)
-        - [第十一論題 伊斯蘭教中的“盟友”和“效忠”](chapter2/section3/topic11.md)
-    
+        - [第十一論題 伊斯蘭教中的“盟友”和“效忠”](chapter2/section3/topic11.md)   
     - [第四篇 信仰末日](../category/%E7%AC%AC%E5%9B%9B%E7%AF%87-%E4%BF%A1%E4%BB%B0%E6%9C%AB%E6%97%A5)
         - [第一論題 末日的預兆及其種類](chapter2/section4/topic1.md)
         - [第二論題 墳墓中的幸福和刑罰](chapter2/section4/topic2.md)
@@ -68,33 +62,24 @@ sidebar_position: 0
             - [第五主題、天秤--其屬性和證據](chapter2/section4/topic3.md#%E7%AC%AC%E4%BA%94%E4%B8%BB%E9%A1%8C%E5%A4%A9%E7%A7%A4--%E5%85%B6%E5%B1%AC%E6%80%A7%E5%92%8C%E8%AD%89%E6%93%9A)
             - [第六主題、說情--定義、種類和證據](chapter2/section4/topic3.md#%E7%AC%AC%E5%85%AD%E4%B8%BB%E9%A1%8C%E8%AA%AA%E6%83%85--%E5%AE%9A%E7%BE%A9%E7%A8%AE%E9%A1%9E%E5%92%8C%E8%AD%89%E6%93%9A)
             - [第七主題、天橋--其性質與證據](chapter2/section4/topic3.md#%E7%AC%AC%E4%B8%83%E4%B8%BB%E9%A1%8C%E5%A4%A9%E6%A9%8B--%E5%85%B6%E6%80%A7%E8%B3%AA%E8%88%87%E8%AD%89%E6%93%9A)
-            - [第八主題、樂園和火獄--性質、信仰的方式和證據](chapter2/section4/topic3.md#%E7%AC%AC%E5%85%AB%E4%B8%BB%E9%A1%8C%E6%A8%82%E5%9C%92%E5%92%8C%E7%81%AB%E7%8D%84--%E6%80%A7%E8%B3%AA%E4%BF%A1%E4%BB%B0%E7%9A%84%E6%96%B9%E5%BC%8F%E5%92%8C%E8%AD%89%E6%93%9A)
-    
+            - [第八主題、樂園和火獄--性質、信仰的方式和證據](chapter2/section4/topic3.md#%E7%AC%AC%E5%85%AB%E4%B8%BB%E9%A1%8C%E6%A8%82%E5%9C%92%E5%92%8C%E7%81%AB%E7%8D%84--%E6%80%A7%E8%B3%AA%E4%BF%A1%E4%BB%B0%E7%9A%84%E6%96%B9%E5%BC%8F%E5%92%8C%E8%AD%89%E6%93%9A)    
     - [第五篇 信仰仲裁與前定](../category/%E7%AC%AC%E4%BA%94%E7%AF%87-%E4%BF%A1%E4%BB%B0%E4%BB%B2%E8%A3%81%E8%88%87%E5%89%8D%E5%AE%9A)
         - [第一論題 仲裁與前定的定義 兩者的證據及區別](chapter2/section5/topic1.md)
         - [第二論題 前定的等級](chapter2/section5/topic2.md)
-
 - [第三章 有關信仰的若干問題](../category/%E7%AC%AC%E4%B8%89%E7%AB%A0-%E6%9C%89%E9%97%9C%E4%BF%A1%E4%BB%B0%E7%9A%84%E8%8B%A5%E5%B9%B2%E5%95%8F%E9%A1%8C)
-- 
     - [第一篇 伊斯蘭、正信和至善](../category/%E7%AC%AC%E4%B8%80%E7%AF%87-%E4%BC%8A%E6%96%AF%E8%98%AD%E6%AD%A3%E4%BF%A1%E5%92%8C%E8%87%B3%E5%96%84)
         - [第一論題 伊斯蘭](chapter3/section1/topic1.md)
         - [第二論題 正信及其基石，對犯大罪者的仲裁聲明](chapter3/section1/topic2.md)
         - [第三論題 至善](chapter3/section1/topic3.md)
         - [第四論題 伊斯蘭、正信和至善之間的關係](chapter3/section1/topic4.md)
-        - 
-   
     - [第二篇 效忠與劃清界限其內涵和條件](../category/%E7%AC%AC%E4%BA%8C%E7%AF%87-%E6%95%88%E5%BF%A0%E8%88%87%E5%8A%83%E6%B8%85%E7%95%8C%E9%99%90%E5%85%B6%E5%85%A7%E6%B6%B5%E5%92%8C%E6%A2%9D%E4%BB%B6)
-    - 
-    
     - [第三篇 聖門弟子的權益及對他們應盡的責任](../category/%E7%AC%AC%E4%B8%89%E7%AF%87-%E8%81%96%E9%96%80%E5%BC%9F%E5%AD%90%E7%9A%84%E6%AC%8A%E7%9B%8A%E5%8F%8A%E5%B0%8D%E4%BB%96%E5%80%91%E6%87%89%E7%9B%A1%E7%9A%84%E8%B2%AC%E4%BB%BB)
         - [第一論題 誰屬聖門弟子？必須熱愛和效忠他們](chapter3/section3/topic1.md)
         - [第二論題 必須相信他們的優越性和公正性，根據教法規定，對他們之間的分歧必須保持沉默](chapter3/section3/topic2.md)
         - [第三論題 先知（願安拉福安之）的家屬](chapter3/section3/topic3.md)
         - [第四論題 正統的哈里發](chapter3/section3/topic4.md)
         - [第五論題 十位以樂園被報喜的人](chapter3/section3/topic5.md)
-  
     - [第四篇 面對穆斯林的領袖、廣大的穆斯林群體我們應盡的義務；必須維護穆斯林的團體](../category/第四篇-面對穆斯林的領袖廣大的穆斯林群體我們應盡的義務必須維護穆斯林的團體)
-
     - [第五篇 必須堅持《古蘭經》和遜奈；其證據](../category/第五篇-必須堅持古蘭經和遜奈的理據)
         - [第一論題“堅持《古蘭經》和遜奈”的內涵；其證據](chapter3/section5/topic1.md)
         - [第二論題 嚴防異端](chapter3/section5/topic2.md)

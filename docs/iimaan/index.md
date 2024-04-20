@@ -10,7 +10,7 @@ sidebar_position: 0
 - [序論](intro3.md)
 - [第一章 歸信安拉](https://tafsir.hk/docs/category/%E7%AC%AC%E4%B8%80%E7%AB%A0-%E6%AD%B8%E4%BF%A1%E5%AE%89%E6%8B%89)
     - [摘要](chapter1/intro.md)
-    - [第一篇 養育之獨一性](category/%E7%AC%AC%E4%B8%80%E7%AF%87-%E9%A4%8A%E8%82%B2%E4%B9%8B%E7%8D%A8%E4%B8%80%E6%80%A7)
+    - [第一篇 養育之獨一性](../category/%E7%AC%AC%E4%B8%80%E7%AF%87-%E9%A4%8A%E8%82%B2%E4%B9%8B%E7%8D%A8%E4%B8%80%E6%80%A7)
         - [第一論題 養育之獨一性之內涵及 《古蘭經》、聖訓、理智和天賦中的證據](chapter1/section1/topic1.md)
         - [第二論題 聲明-- 只承認“養育之獨一性”擺脫不了火獄之刑罰](chapter1/section1/topic2.md)
         - [第三論題 對“養育之獨一性”的歪曲現象](chapter1/section1/topic3.md)

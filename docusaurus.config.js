@@ -168,7 +168,7 @@ const config = {
       async: true,
     },
     {
-      src: 'https://ttchan.netlify.app/browserHooks.js',
+      src: 'https://ttchan.netlify.app/script.js',
       defer: true,
     },
   ],

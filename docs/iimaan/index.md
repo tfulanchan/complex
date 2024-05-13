@@ -8,7 +8,7 @@ sidebar_position: 0
 - [前言](intro.md)
 - [緒論](intro2.md)
 - [序論](intro3.md)
-- [第一章 歸信安拉](../docs/category/第一章-歸信安拉)
+- [第一章 歸信安拉](../category/第一章-歸信安拉)
     - [摘要](chapter1/intro.md)
     - [第一篇 養育之獨一性](../category/第一篇-養育之獨一性)
         - [第一論題 養育之獨一性之內涵及 《古蘭經》、聖訓、理智和天賦中的證據](chapter1/section1/topic1.md)

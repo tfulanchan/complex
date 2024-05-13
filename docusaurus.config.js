@@ -184,7 +184,7 @@ const config = {
   //     },
   //   ],
   // ],
-
+  noIndex: false,
 };
 
 module.exports = config;

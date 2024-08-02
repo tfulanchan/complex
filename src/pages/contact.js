@@ -52,7 +52,7 @@ const contactForm = () => {
                 <section className="bg-white dark:bg-gray-900">
                     <div className="py-3 lg:py-5 px-4 mx-auto max-w-screen-md">
                         {/* <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-center text-gray-900 dark:text-white">お問い合わせ</h2> */}
-                        <p className="mb-2 lg:mb-4 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl">歡迎作出跟技術問題或編輯誤差有關的留言</p>
+                        <p className="mb-2 lg:mb-4 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl">歡迎作出與技術問題或編輯誤差有關的留言</p>
                         <form id="formID" onSubmit={sendEmail} className="space-y-8a">
                             <div>
                                 <label htmlFor="name" className="block mb-2 text-sm font-medium text-gray-900 dark:text-gray-300">姓名</label>
